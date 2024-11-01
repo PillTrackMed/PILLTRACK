@@ -1,6 +1,3 @@
-Aqui está o README ajustado com a formatação correta para exibição no GitHub:
-
----
 
 <p align="center">
   <a href="https://github.com/GiovanaMarsigli/PillTrack">
