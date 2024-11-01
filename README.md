@@ -18,10 +18,25 @@ Curso: Técnico em Desenvolvimento de Sistemas
 Turma: 3ºDS
 Orientador: Jeferson Roberto de Lima
 Autoras:
-Desirée Constantino de Almeida Barboza
-Giovana Marsigli Rodrigues
-Isabelle Gomes de Souza Andrade
-💡 Objetivo do Projeto
+## Colaboradoras
+
+O projeto PillTrack é desenvolvido por uma equipe dedicada e talentosa:
+
+- **Desirée Constantino**  
+  - [LinkedIn](https://www.linkedin.com/in/desir%C3%A9e-barboza-833a30288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+  - [GitHub](https://github.com/Constdesire)  
+  - [Email](mailto:email_da_colaboradora_1)
+
+- **Giovana Marsigli**  
+  - [LinkedIn](https://www.linkedin.com/in/giovana-marsigli-rodrigues-b85496289/)  
+  - [GitHub](https://github.com/GiovanaMarsigli)  
+  - [Email](mailto:marsigligiovana@gmail)
+
+- **Isabelle Gomes**  
+  - [LinkedIn]([link_para_o_linkedin](https://br.linkedin.com/in/isabelle-gomes-de-souza-andrade-4a4506289?trk=public_profile_browsemap-profile)  
+  - [GitHub](https://github.com/Isaanine)  
+  - [Email](mailto:email_da_colaboradora_3)
+
 PillTrack busca proporcionar maior segurança no consumo de medicamentos por meio de um sistema de gerenciamento automatizado, que visa reduzir erros de medicação e auxiliar pacientes, cuidadores e médicos no acompanhamento das doses e horários de administração.
 
 🚀 Funcionalidades
@@ -33,4 +48,7 @@ Detecção de Retirada de Medicamento: Sensor TCRT5000 que identifica quando o c
 Back-End: Node.js, Firebase (Firestore)
 Front-End: React Native
 Hardware: ESP32 DevKit V1, motores de passo, LCD, sensor TCRT5000
+
+## © PillTrack, Todos Os Direitos Reservados 2024💡 Objetivo do Projeto
+
 Linguagens: JavaScript, Python
